@@ -36,7 +36,7 @@ Herramientas que utilizamos para el proyecto
 
 ## Resultados ✅
 
-![Terminal](https://github.com/shelsyrod/Parcial2-BD/blob/master/TerminalMySql.png)
+![Bollinger](https://github.com/shelsyrod/Parcial2-BD/blob/master/TerminalMySql.png)
 
 ![Workflow](https://github.com/shelsyrod/Parcial2-BD/blob/master/workflow.jpeg)
 

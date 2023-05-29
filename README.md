@@ -36,10 +36,17 @@ Herramientas que utilizamos para el proyecto
 
 ## Resultados ✅
 
+- Punto 1
 ![Bollinger](https://github.com/shelsyrod/Parcial3-BD/blob/master/GraficaFranjaBollinger.JPG)
 
+- Punto 2
 ![ElTiempo](https://github.com/shelsyrod/Parcial3-BD/blob/master/ElTiempo.png)
 ![ElEspectador](https://github.com/shelsyrod/Parcial3-BD/blob/master/ElEspectador.png)
+
+- Punto 3
+![ElEspectador](https://github.com/shelsyrod/Parcial3-BD/blob/master/Punto3.JPG)
+![ElEspectador](https://github.com/shelsyrod/Parcial3-BD/blob/master/Punto3.1.JPG)
+![ElEspectador](https://github.com/shelsyrod/Parcial3-BD/blob/master/Punto3.2.JPG)
 
 ## Autores ✒️
 

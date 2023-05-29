@@ -38,7 +38,8 @@ Herramientas que utilizamos para el proyecto
 
 ![Bollinger](https://github.com/shelsyrod/Parcial3-BD/blob/master/GraficaFranjaBollinger.JPG)
 
-![Workflow](https://github.com/shelsyrod/Parcial2-BD/blob/master/workflow.jpeg)
+![ElTiempo](https://github.com/shelsyrod/Parcial3-BD/blob/master/ElTiempo.png)
+![ElEspectador](https://github.com/shelsyrod/Parcial3-BD/blob/master/ElEspectador.png)
 
 ## Autores ✒️
 
